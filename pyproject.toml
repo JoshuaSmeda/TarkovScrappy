@@ -4,9 +4,9 @@ requires = ["poetry-core>=1.0.0"]
 
 [tool]
 [tool.poetry]
-authors = ["Your Name <you@example.com>"]
+authors = ["Joshua Smeda <smeda.josh14@gmail.com>"]
 description = ""
-name = "scrapit"
+name = "tarkov-scrappy"
 version = "0.1.0"
 [tool.poetry.dependencies]
 discord = "^1.7.3"
