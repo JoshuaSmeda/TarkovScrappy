@@ -1,0 +1,16 @@
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
+
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+description = ""
+name = "scrapit"
+version = "0.1.0"
+[tool.poetry.dependencies]
+discord = "^1.7.3"
+fnmatch2 = "^0.0.8"
+python = "^3.8"
+Flask = "^2.0.2"
+[tool.poetry.dev-dependencies]
